@@ -1,0 +1,2 @@
+:- truthy value
+https://chatgpt.com/share/6769eb90-f990-8011-90a1-9c0e18819568
